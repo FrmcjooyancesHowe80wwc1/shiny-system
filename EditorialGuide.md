@@ -1,1 +1,2 @@
 EditorialStandards
+SetupInstructions
