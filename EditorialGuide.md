@@ -1,2 +1,3 @@
 EditorialStandards
 SetupInstructions
+StyleGuidelines
