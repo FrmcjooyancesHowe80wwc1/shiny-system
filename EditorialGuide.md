@@ -1,3 +1,4 @@
 EditorialStandards
 SetupInstructions
 StyleGuidelines
+EditorialWorkflow
