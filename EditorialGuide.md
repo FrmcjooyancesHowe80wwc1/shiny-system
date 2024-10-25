@@ -2,3 +2,4 @@ EditorialStandards
 SetupInstructions
 StyleGuidelines
 EditorialWorkflow
+ConfigSettings
