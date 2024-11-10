@@ -3,3 +3,4 @@ SetupInstructions
 StyleGuidelines
 EditorialWorkflow
 ConfigSettings
+CommunityRules
