@@ -4,3 +4,4 @@ ContentTopics
 ToolDependencies
 ContentExamples
 ContributionGuide
+ErrorHandling
