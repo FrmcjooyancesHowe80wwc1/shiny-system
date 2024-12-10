@@ -4,3 +4,4 @@ StyleGuidelines
 EditorialWorkflow
 ConfigSettings
 CommunityRules
+LicenseDetails

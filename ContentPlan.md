@@ -5,3 +5,4 @@ ToolDependencies
 ContentExamples
 ContributionGuide
 ErrorHandling
+LegalNotes
