@@ -5,3 +5,4 @@ EditorialWorkflow
 ConfigSettings
 CommunityRules
 LicenseDetails
+ContentFAQ
