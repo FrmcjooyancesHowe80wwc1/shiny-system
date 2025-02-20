@@ -7,3 +7,4 @@ CommunityRules
 LicenseDetails
 ContentFAQ
 ContentUpdates
+EditorialOptimization
